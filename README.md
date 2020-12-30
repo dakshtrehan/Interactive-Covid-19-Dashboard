@@ -4,7 +4,7 @@
 
 This project is covid-19 real time stats demonstrator along with customer awareness and interactive real-time stats.
 
-Check out www.dakshtrehan.com, www.priyanshsinghal.com
+Check out http://interactivecovid19dashboard.herokuapp.com/
 
 ## Key Features
 * Live COVID stats
@@ -24,8 +24,6 @@ To take another step towards challenges, we have also introduced prediction rate
 2. **Prediction rate** - To ease the situation, one can easily predict recovery rate as well as infected rate for future course of time.
 
 3. **Real-Time Self Assessment Chatbot** - People can do take their self-assessment checkup by answering the few questions and based on that answers, the user will get the advice by the chatbot such as to quarantine or visit the hospital or precautions if the user is healthy. This will help people in ensuring their safety.
-
-Check it Out : http://interactivecovid19dashboard.herokuapp.com/
 
 ## Peek : 
 ### Overview
