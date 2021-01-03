@@ -33,11 +33,11 @@ To take another step towards challenges, we have also introduced prediction rate
 ### Country-wise Graphical stats 
 ![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(97).png)<br>
 ### Option to download interactive country-wise stats charts in various formats
-![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(100).png) <br>
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Download%20visuals.png) <br>
 ### Daily cummulative data vs Rolling Mean for 4 days, country-wise
-![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(108).png)<br>
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Rolling%20Mean.png)<br>
 ### Last days stats along with option to download them in various formats
-![](https://github.com/dakshtrehan/Covid-19-Dashboard/blob/master/images/Screenshot%20(101).png)
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/6%20days%20count.png)
 
 ## Tech Stack
 * Python 3
