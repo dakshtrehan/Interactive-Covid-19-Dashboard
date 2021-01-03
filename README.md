@@ -62,4 +62,4 @@ To take another step towards challenges, we have also introduced prediction rate
 ## Future scope
 * Better interface
 
-## Designed with ❤ by Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
+#### Designed with ❤ by Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
