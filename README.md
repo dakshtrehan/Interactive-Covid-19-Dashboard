@@ -38,6 +38,17 @@ To take another step towards challenges, we have also introduced prediction rate
 ![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Rolling%20Mean.png)<br>
 ### Last days stats along with option to download them in various formats
 ![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/6%20days%20count.png)
+### Interactive Chatbot
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/chatbot.png)<br>
+### Analysis of world-wise trend
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Prediction%20graphs.png)<br>
+### Predicting number of cases worldwide
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Prediction%202.png)<br>
+### Predicting number of recovered cases worldwide
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Prediction%203.png)<br>
+### Accuracies
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Prediction%204.png)<br>
+
 
 ## Tech Stack
 * Python 3
