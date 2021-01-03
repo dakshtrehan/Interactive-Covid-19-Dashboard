@@ -6,6 +6,8 @@ This project is covid-19 real time stats demonstrator along with customer awaren
 
 Check out http://interactivecovid19dashboard.herokuapp.com/
 
+Join the team on: www.dakshtrehan.com; www.priyanshsinghal.com
+
 ## Key Features
 * Live COVID stats
 * Recovery Rate prediction
@@ -58,7 +60,6 @@ To take another step towards challenges, we have also introduced prediction rate
 * Javascript for dynamic structure
 
 ## Future scope
-* Chatbot addition
 * Better interface
 
-### Designed with ❤ by Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
+## Designed with ❤ by Daksh Trehan, Priyansh Singhal, Abhishek Jaglan
