@@ -6,7 +6,7 @@ This project is covid-19 real time stats demonstrator along with customer awaren
 
 Check out http://interactivecovid19dashboard.herokuapp.com/
 
-Join the team on: www.dakshtrehan.com; www.priyanshsinghal.com
+Join the team at: www.dakshtrehan.com; www.priyanshsinghal.com
 
 ## Key Features
 * Live COVID stats
