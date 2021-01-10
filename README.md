@@ -5,6 +5,9 @@
 This project is covid-19 real time stats demonstrator along with customer awareness and interactive real-time stats.
 
 Check out http://interactivecovid19dashboard.herokuapp.com/
+Link to Research Paper: https://www.ijser.org/onlineResearchPaperViewer.aspx?COVID-19-Trend-Analysis-using-Machine-Learning-Techniques.pdf
+Link to Medium Article: https://dakshtrehan.medium.com/interactive-covid-19-dashboard-with-chatbot-and-prediction-capabilities-ad3dc4fa4058
+
 
 Join the team at: www.dakshtrehan.com; www.priyanshsinghal.com
 
