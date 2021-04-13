@@ -4,9 +4,9 @@
 
 This project is covid-19 real time stats demonstrator along with customer awareness and interactive real-time stats.
 
-Check out http://interactivecovid19dashboard.herokuapp.com/<br>
-Link to Research Paper: http://dx.doi.org/10.14299/ijser.2020.12.08 OR http://https://doi.org/ftg4<br>
-Link to Medium Article: https://dakshtrehan.medium.com/interactive-covid-19-dashboard-with-chatbot-and-prediction-capabilities-ad3dc4fa4058<br>
+<b>Check out</b> http://interactivecovid19dashboard.herokuapp.com/<br><br>
+<b>Link to Research Paper</b>: http://dx.doi.org/10.14299/ijser.2020.12.08 OR http://https://doi.org/ftg4<br><br>
+<b>Link to Medium Article</b>: https://dakshtrehan.medium.com/interactive-covid-19-dashboard-with-chatbot-and-prediction-capabilities-ad3dc4fa4058<br><br>
 
 
 
