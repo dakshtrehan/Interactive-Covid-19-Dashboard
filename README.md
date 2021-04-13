@@ -55,6 +55,8 @@ To take another step towards challenges, we have also introduced prediction rate
 ![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Prediction%203.png)<br>
 ### Accuracies
 ![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Prediction%204.png)<br>
+### Vaccination Analysis
+![](https://github.com/dakshtrehan/Interactive-Covid-19-Dashboard/blob/main/Images/Screenshot%20(933).png)<br>
 
 
 ## Tech Stack
